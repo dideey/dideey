@@ -16,11 +16,11 @@
 
 <br clear="both">
 
-<h6 align="center">Driven by a fuel that can never be fossil, all for the sole purpose of making a difference in my immediate environment and beyond through my tech skills.</h6>
+<h4 align="center">Driven by a fuel that can never be fossil, all for the sole purpose of making a difference in my immediate environment and beyond through my tech skills.</h4>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dideey&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=dideey&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/bradley-jayden/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="ndwarubradley@gmail.com" target="_blank">
+  <a href="https://ndwarubradley@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -81,4 +81,3 @@
 </div>
 
 ###
-
