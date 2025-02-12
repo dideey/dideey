@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
@@ -79,7 +79,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
